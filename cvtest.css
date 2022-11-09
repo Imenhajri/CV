@@ -1,0 +1,7 @@
+header{
+    background-image: url(../images/header-background.jpg);
+    height: 400px;
+}
+ul li {
+    display: inline;
+}
